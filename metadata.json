@@ -1,0 +1,6 @@
+{
+  "name": "Đấu Trí Giao Thông - Mức Phạt Đường Bộ",
+  "description": "Game trắc nghiệm 20 tình huống giao thông thực tế và mức xử phạt theo Nghị định 100/123 với lời khuyên chuyên gia, tra cứu nhanh và bảng xếp hạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
